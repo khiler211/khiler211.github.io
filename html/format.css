@@ -1,0 +1,19 @@
+body{
+margin: auto;
+width: 800px;
+font-family: Helvetica;
+font-size: 12px;
+line-height: 15px;
+}
+h2{
+font-family: Helvetica;
+font-size: 25px;
+font-weight: normal;
+line-height:45px;
+}
+h3{
+font-family: Helvetica;
+font-size: 18px;
+font-weight: normal;
+line-height:25px;
+}
